@@ -1,0 +1,10 @@
+package com.mycompany.diariodenotas;
+import javax.swing.JOptionPane;
+
+public class notas {
+      public static void main (String[]args){
+        Alunos aluno = new Alunos ();
+        
+        aluno.nome = "crippa";
+      }
+}
